@@ -7,7 +7,7 @@ public class LoginServiceImple implements LoginService {
 
 	@Override
 	public Login loginCheck() {
-		System.out.println("jhfjhksf");
+		System.out.println("jhfjhksf welcome to doctore projects.............");
 		
 		// TODO Auto-generated method stub
 		return null;
